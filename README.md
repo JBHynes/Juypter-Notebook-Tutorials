@@ -1,2 +1,2 @@
-# juypter-notebook-tutorials
-Juypter Notebook Tutorials
+# jupyter-notebook-tutorials
+Jupyter Notebook Tutorials
